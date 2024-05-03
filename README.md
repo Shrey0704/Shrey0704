@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrey Patel
-- 👀 I’m interested in position of software develoment or any other related jobs which includes working on JS, Python, JavaScript, Programming, Linux.
+- 👀 I’m interested in position of software develoment which includes working on any of JS, Python, JavaScript, Programming, Linux.
 - 🌱 I completed my diploma in Software Engineering Technician where I learned about myriad programming languages which are JS, Python, JavaScript, Programming. Additionally I am doing some of the certifications to enhance my skills. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can email me on Shreypatel772005@gmail.com
